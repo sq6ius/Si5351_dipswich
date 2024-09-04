@@ -60,7 +60,7 @@ void loop() {
 
   // Keep in mind the pull-up means the pushbutton's logic is inverted. It goes
 
-  // HIGH when it's open, and LOW when it's pressed. Turn on pin 13 when the
+  // HIGH when it's open, and L pressed. Turn on pin 13 when the
 
   // button's pressed, and off when it's not:
   delay(200);
